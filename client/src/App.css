@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Mukta:wght@200;300;500&family=Nanum+Gothic&family=Nunito:wght@200&family=Source+Sans+Pro&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: inter;
+  font-family: 'Inter', sans-serif;
+  font-family: 'Mukta', sans-serif;
+  font-family: 'Nanum Gothic', sans-serif;
+  font-family: 'Nunito', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+/* :root{
+  --scrollbar-color: rgb(95, 95, 95);
+  --thumb-color: rgb(59, 59, 59);
+}
+
+.light {
+  --scrollbar-color: rgb(230, 230, 230);
+  --thumb-color: rgb(173, 173, 173);
+} */
+
+.App {
+  height: 100vh;
+  position: relative;
+
+}
+
+::-webkit-scrollbar {
+   display: none;
+}
+
+
